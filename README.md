@@ -27,7 +27,6 @@ stack/heap, registers), but we will refresh and introduce students to the x86 as
 
 No textbooks required. Readings will be recommended as the semester goes on. A laptop with VMware or VirtualBox. Class VM will be provided.
 
-<div style="page-break-after: always;"></div>
 ### Topics Covered
 
  - Static binary analysis
@@ -82,7 +81,6 @@ Homeworks and quizzes will be scanned and graded using Gradescope. Students will
 |---|---|
 | 27%  | 73%  |
 
-<div style="page-break-after: always;"></div>
 ## Schedule
 
 | Week # | Lecture Topic | Assignment |
@@ -109,11 +107,11 @@ Homeworks and quizzes will be scanned and graded using Gradescope. Students will
 ## Communication
 We will interact with students outside of class in primarily two ways: in-person during office hours and slack. Email should only be used for emergencies and not class related questions (e.g., homework).
 
-##### Faculty Advisor
+### Faculty Advisor
 
  - Jonathan Katz - **jkatz AT cs.umd.edu**
 
-##### Course factors
+### Course factors
 
  - Chase Kanipe - **chasekanipe AT gmail** (Office Hours: TBD)
  - Vinnie Caporola - **vcapra1 AT umd.edu** (Office Hours: TBD)
@@ -133,8 +131,6 @@ Note that academic dishonesty includes not only cheating, fabrication, and plagi
 It is very important for you to be aware of the consequences of cheating, fabrication, facilitation, and plagiarism. For more information on the Code of Academic Integrity or the Student Honor Council, please visit http://www.shc.umd.edu.
 
 
-
-<div style="page-break-after: always;"></div>
 ## Course Evaluations
 
 If you have a suggestion for improving this class, don’t hesitate to tell the instructor or TAs during the semester. At the end of the semester, please don’t forget to provide your feedback using the campus-wide CourseEvalUM system. Your comments will help make this class better.
